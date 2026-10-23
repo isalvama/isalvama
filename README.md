@@ -1,4 +1,4 @@
-## Inés Salvans
+# Inés Salvans
 
 Mobile & Backend Developer
 
@@ -15,10 +15,10 @@ I enjoy understanding problems, exploring different solutions and turning ideas 
 A full-stack application designed to help households manage their food inventory, keep track of expiration dates and reduce food waste.
 
 **Key features**
-- 📱 Mobile application developed with Flutter.
-- ⚙️ Backend built with Java and Spring Boot.
-- 🤖 LLM integration to extract product information from shopping receipts.
-- 🧾 Automated product registration and estimated expiration dates.
+- 📱 **Mobile application** developed with **Flutter**.
+- ⚙️ **Backend** built with **Java** and **Spring Boot**.
+- 🤖 **LLM integration** to extract product information from shopping receipts.
+- 🧾 **Automated** product registration and **estimated** expiration dates.
 
 **Independently designed and developed**
 
